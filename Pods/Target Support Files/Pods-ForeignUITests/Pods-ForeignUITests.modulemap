@@ -1,0 +1,6 @@
+framework module Pods_ForeignUITests {
+  umbrella header "Pods-ForeignUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
