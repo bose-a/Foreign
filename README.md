@@ -1,5 +1,5 @@
 # Foreign
 _A simple e-commerce application_</br></br>
 <p align="center">
-  ![](Foreign_2.gif)
+  <img src=![](Foreign_2.gif)>
 </p>
